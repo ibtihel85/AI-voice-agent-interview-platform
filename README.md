@@ -1,0 +1,2 @@
+# AI-voice-agent-interview-platform
+AI Voice Agent Interview Platform is an intelligent web application that enables interactive, voice-based interviews using AI technology. The platform allows interviewers to conduct, record, and analyze interviews seamlessly while providing candidates with a smooth voice-driven experience.
